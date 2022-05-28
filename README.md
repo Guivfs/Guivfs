@@ -9,12 +9,15 @@
 
 <br>
 
-## A little of my knowledge 👨‍💻
-> Languages, tools, technologies...
+## A little of my knowledge... 👨‍💻
 
+<div style="align-content: center ;">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
-![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+>![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 )
