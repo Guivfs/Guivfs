@@ -1,20 +1,16 @@
-<h2>
-Hello World! 👋
-</h2>
+# Hello World! 👋
 
 
-<h3>
-  My name is Guilherme Vieira! and i'm passionate about technology and astronomy ✨
-</h3>
+
+### My name is Guilherme Vieira! and i'm passionate about technology and astronomy ✨
 
 - 🏡 Brazilian, SP
 - 📩 Contact me: Guizinho.vfs@gmail.com
 
-<hr>
+<br>
 
-<h3>
-  A little of my knowledge... 👨‍💻
-</h3>
+## A little of my knowledge 👨‍💻
+> Languages, tools, technologies...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
