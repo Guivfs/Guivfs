@@ -2,7 +2,7 @@
 
 
 
-### My name is Guilherme Vieira! and i'm passionate about technology and astronomy ✨
+### Meu nome é Guilherme Viera. ✨
 
 - 🏡 Brazilian, SP
 - 📩 Contact me: Guizinho.vfs@gmail.com
