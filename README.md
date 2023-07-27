@@ -2,7 +2,7 @@
 
 
 
-### Meu nome é Guilherme Viera. ✨
+### My name is Guilherme Viera. ✨
 
 - 🏡 Brazilian, SP
 - 📩 Contact me: Guizinho.vfs@gmail.com
