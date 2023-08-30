@@ -4,6 +4,7 @@
 - ✨ Meu nome é Guilherme Viera 
 - 🏡 Brasil, SP
 - 👾 Estágiario, Desenvolvedor Full-Stack
+- 📩 guizinho.vfs@gmail.com
 
 ## Um pouco do meu conhecimento... 👨‍💻
 
