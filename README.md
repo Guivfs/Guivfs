@@ -3,7 +3,7 @@
 ## 😀 About me
 - ✨ My name is Guilherme Viera.
 - 🏡 Brazil, SP.
-- 👾 Intern, Full-Stack Developer.
+- 👾 Trainne, Full-Stack Developer.
 - 📚 Technician in systems analysis and development.
   
 ## 👨‍💻 A little of my knowledge
