@@ -1,4 +1,4 @@
-![Photo](https://github.com/OhGuizao/OhGuizao/assets/79462445/a6475a1f-13c1-47de-8480-e8dcc758fc98)
+![Photo](https://github.com/OhGuizao/OhGuizao/assets/79462445/a37f1be5-6aeb-473a-9ece-cbf614b08489)
 
 <p align="center">
   <img style="width:48%;" src="https://github-readme-stats.vercel.app/api?username=OhGuizao&show_icons=true&theme=github_dark" alt="GitHub Stats">
