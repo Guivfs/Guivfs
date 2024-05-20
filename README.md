@@ -1,8 +1,8 @@
 ![Photo](https://github.com/Guivfs/Guivfs/assets/79462445/a37f1be5-6aeb-473a-9ece-cbf614b08489)
 
 <p align="center">
-  <img style="width:48%;" src="https://github-readme-stats.vercel.app/api?username=Guivfs&show_icons=true&include_all_commits=true&theme=github_dark&count_private=true&hide_border=true&hide=contribs" alt="GitHub Stats">
-  <img style="width:37%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guivfs&layout=compact&theme=github_dark&count_private=true&hide_border=true" alt="Top Languages">
+  <img style="width:48%;" src="https://github-readme-stats.vercel.app/api?username=Guivfs&show_icons=true&include_all_commits=true&theme=github_dark&count_private=true&hide=contribs" alt="GitHub Stats">
+  <img style="width:37%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guivfs&layout=compact&theme=github_dark&count_private=true" alt="Top Languages">
 </p>
 
 <img style="width:100%;" src="https://github.com/Guivfs/Guivfs/assets/79462445/c759c6f7-bf14-4a1d-aeaf-d9499669977b">
