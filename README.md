@@ -1,4 +1,4 @@
-![Photo](https://github.com/Guivfs/Guivfs/assets/79462445/a37f1be5-6aeb-473a-9ece-cbf614b08489)
+![Photo](https://github.com/Guivfs/Guivfs/blob/main/banner.png)
 
 <p align="center">
   <img style="width:48%;" src="https://github-readme-stats.vercel.app/api?username=Guivfs&show_icons=true&include_all_commits=true&theme=github_dark&count_private=true&hide=contribs" alt="GitHub Stats">
