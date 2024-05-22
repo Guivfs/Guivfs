@@ -1,4 +1,8 @@
+<img style="width:100%;" src="https://github.com/Guivfs/Guivfs/assets/79462445/c759c6f7-bf14-4a1d-aeaf-d9499669977b">
+
 ![Photo](https://github.com/Guivfs/Guivfs/blob/main/banner.png)
+<img style="width:100%;" src="https://github.com/Guivfs/Guivfs/assets/79462445/c759c6f7-bf14-4a1d-aeaf-d9499669977b">
+
 
 <p align="center">
   <img style="width:48%;" src="https://github-readme-stats.vercel.app/api?username=Guivfs&show_icons=true&include_all_commits=true&theme=github_dark&count_private=true&hide=contribs" alt="GitHub Stats">
