@@ -1,6 +1,6 @@
 <img style="width:100%;" src="https://github.com/Guivfs/Guivfs/assets/79462445/c759c6f7-bf14-4a1d-aeaf-d9499669977b">
 
-![Photo](https://github.com/Guivfs/Guivfs/blob/main/banner.png)
+![Photo](https://github.com/Guivfs/Guivfs/blob/main/banner-gui.png)
 <img style="width:100%;" src="https://github.com/Guivfs/Guivfs/assets/79462445/c759c6f7-bf14-4a1d-aeaf-d9499669977b">
 
 
