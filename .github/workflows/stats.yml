@@ -31,9 +31,25 @@ jobs:
           echo "Private repositories accessible:"
           echo "========================================"
 
-          gh repo list --private --limit 100 \
-            --json nameWithOwner,isPrivate,visibility \
-            --jq '.[] | "\(.visibility) - \(.nameWithOwner)"'
+          gh api graphql --paginate -f query='
+            query($endCursor: String) {
+              viewer {
+                repositories(
+                  first: 100
+                  after: $endCursor
+                  privacy: PRIVATE
+                ) {
+                  nodes {
+                    nameWithOwner
+                  }
+                  pageInfo {
+                    hasNextPage
+                    endCursor
+                  }
+                }
+              }
+            }
+          ' --jq '.data.viewer.repositories.nodes[].nameWithOwner'
 
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
