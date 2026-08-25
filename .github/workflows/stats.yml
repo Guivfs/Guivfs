@@ -16,6 +16,25 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
+      - name: Test private repository access
+        env:
+          GH_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: |
+          echo "========================================"
+          echo "Authenticated GitHub user:"
+          echo "========================================"
+
+          gh api user --jq '.login'
+
+          echo ""
+          echo "========================================"
+          echo "Private repositories accessible:"
+          echo "========================================"
+
+          gh repo list --private --limit 100 \
+            --json nameWithOwner,isPrivate,visibility \
+            --jq '.[] | "\(.visibility) - \(.nameWithOwner)"'
+
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -28,7 +47,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Guivfs&layout=compact&count_private=true&theme=github_dark
+          options: username=Guivfs&layout=compact&langs_count=6&count_private=true&theme=github_dark
           path: profile/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
