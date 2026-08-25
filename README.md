@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img style="width:48%;" src="./profile/stats.svg" alt="GitHub Stats">
+  <img style="width:48%;" src="./profile/stats.svg?v=2" alt="GitHub Stats">
   <img style="width:37%;" src="./profile/top-langs.svg" alt="Top Languages">
 </p>
 
