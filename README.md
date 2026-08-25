@@ -4,14 +4,20 @@
 
 <img style="width:100%;" src="https://github.com/Guivfs/Guivfs/assets/79462445/c759c6f7-bf14-4a1d-aeaf-d9499669977b">
 
-
 <p align="center">
-  <img style="width:48%;" src="./profile/stats.svg?v=2" alt="GitHub Stats">
-  <img style="width:37%;" src="./profile/top-langs.svg" alt="Top Languages">
+  <img
+    style="width:48%;"
+    src="https://raw.githubusercontent.com/Guivfs/Guivfs/main/profile/stats.svg"
+    alt="GitHub Stats"
+  >
+  <img
+    style="width:37%;"
+    src="https://raw.githubusercontent.com/Guivfs/Guivfs/main/profile/top-langs.svg"
+    alt="Top Languages"
+  >
 </p>
 
 <img style="width:100%;" src="https://github.com/Guivfs/Guivfs/assets/79462445/c759c6f7-bf14-4a1d-aeaf-d9499669977b">
-
 
 ## Front-end
 
@@ -23,7 +29,6 @@
 ![Js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-
 ## Back-end
 
 ![Node](https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white)
@@ -31,14 +36,12 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
 ## Database & Cloud
 
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
 
 ## Other technologies
 
@@ -50,7 +53,6 @@
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-
 ## About me
 
 - ✨ My name is Guilherme Vieira.
@@ -59,7 +61,6 @@
 - 🎓 Computer Science student.
 - 🎓 Technologist in Systems Analysis and Development.
 - 🎓 Technician in Information Technology.
-
 
 ## Contact
 
